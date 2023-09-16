@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499079886571",
+    "project_id": "explora-76b5d",
+    "storage_bucket": "explora-76b5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499079886571:android:800299f48b472c535bf0ae",
+        "android_client_info": {
+          "package_name": "com.example.explora_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499079886571-4n8odi7bedspfair9bheo3rptpk9bepf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLdSr5IQD9PwBuF6JAniigGpVmq6t5Qyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499079886571-4n8odi7bedspfair9bheo3rptpk9bepf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
